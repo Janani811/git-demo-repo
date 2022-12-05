@@ -1,3 +1,7 @@
 # Header
 
-GIT AND GITHUB INTRO
+GIT AND GITHUB
+
+# Sub Header
+
+GIT INTRODUCTION
